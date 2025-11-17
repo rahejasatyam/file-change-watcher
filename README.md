@@ -7,8 +7,11 @@ Such a tool is a perfect way for developers, security researches, or any other p
 ## Features
 
 -Continuously watches a file for any modifications
+
 -Detects and prints changed, new, or deleted lines
+
 -Real-time monitoring - changes show instantly in the file
+
 -Minimal and user-friendly - only Python 3 is required
 
 ## How to Use
