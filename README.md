@@ -1,11 +1,15 @@
 # File Change Watcher
 
-A simple Python script that monitors a file for real-time changes.
+A small Python utility that monitors a target file and displays changes in real-time as they happen.
+
+Such a tool is a perfect way for developers, security researches, or any other people to know the method of modification of the file in which the background.
 
 ## Features
-- Watches a file and detects when it changes  
-- Shows which lines were added, removed, or modified  
-- Runs continuously and prints changes in real-time  
+
+-Continuously watches a file for any modifications
+-Detects and prints changed, new, or deleted lines
+-Real-time monitoring - changes show instantly in the file
+-Minimal and user-friendly - only Python 3 is required
 
 ## How to Use
 1. Make sure you have **Python 3** installed.  
